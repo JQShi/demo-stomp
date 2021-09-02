@@ -8,6 +8,7 @@ https://www.erlang.org/downloads
 https://www.rabbitmq.com/download.html
 
 3. enable rabbitmq plugins
+cd ../sbin/
 rabbitmq-plugins enable rabbitmq_stomp
 rabbitmq-plugins enable rabbitmq_management
 
